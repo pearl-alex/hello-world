@@ -1,4 +1,5 @@
 # hello-world
-first repository
-This edited.
+first repository.
+
+This is edited.
 Here are some changes.
